@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\DriversCamera\TicketProcessingFunction\obj\Debug\net6.0\TicketProcessingFunction.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DriversCamera\TicketProcessingFunction\obj\Debug\net6.0\TicketProcessingFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DriversCamera\TicketProcessingFunction\obj\Debug\net6.0\TicketProcessingFunction.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DriversCamera\TicketProcessingFunction\obj\Debug\net6.0\TicketProcessingFunction.AssemblyInfo.cs
+C:\Users\admin\source\repos\DriversCamera\TicketProcessingFunction\obj\Debug\net6.0\TicketProcessingFunction.csproj.CoreCompileInputs.cache
