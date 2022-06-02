@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\DriversCamera\DriversCamera\obj\Debug\DMVService.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DriversCamera\DriversCamera\obj\Debug\DMVService.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\DriversCamera\DriversCamera\obj\Debug\DMVService.csproj.CoreCompileInputs.cache

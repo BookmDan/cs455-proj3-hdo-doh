@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\DriversCamera\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DriversCamera\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DriversCamera\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DriversCamera\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.AssemblyInfo.cs
+C:\Users\admin\source\repos\DriversCamera\PlateReaderFunction\obj\Debug\net6.0\PlateReaderFunction.csproj.CoreCompileInputs.cache
