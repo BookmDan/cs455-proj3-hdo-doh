@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NBnEaP0f7GzhTjyXeNPyhkLiIhLvy87pPSYCL2mwd3zfGVRi5z+Bm1ZNDEdTRAiOe4Y1uhqjLGDXRYHVGObkaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\DriversCamera\\plateRekognition\\plateRekognition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.core\\3.7.11.10\\awssdk.core.3.7.11.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.rekognition\\3.7.8.17\\awssdk.rekognition.3.7.8.17.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.s3\\3.7.9.10\\awssdk.s3.3.7.9.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.textract\\3.7.5.17\\awssdk.textract.3.7.5.17.nupkg.sha512"
+  ],
+  "logs": []
+}

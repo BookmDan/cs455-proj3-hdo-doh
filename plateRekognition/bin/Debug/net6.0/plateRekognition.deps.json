@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "plateRekognition/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.10",
+          "AWSSDK.Rekognition": "3.7.8.17",
+          "AWSSDK.S3": "3.7.9.10",
+          "AWSSDK.Textract": "3.7.5.17"
+        },
+        "runtime": {
+          "plateRekognition.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.10": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.10"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.7.8.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.8.17"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.9.10": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.9.10"
+          }
+        }
+      },
+      "AWSSDK.Textract/3.7.5.17": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Textract.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.17"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "plateRekognition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.11.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u6+/RKeITc7nisUIOmD3peumrKz4L3IoW9hTp8BPqbJ+ElG+lOYj/0TkeIfpPHtjibfVQHkaa10xQXHxYHT2DA==",
+      "path": "awssdk.core/3.7.11.10",
+      "hashPath": "awssdk.core.3.7.11.10.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.7.8.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuBxm3S5osFGumhdtvwNTe+TjyuhmEheQCYZfF7/r82vIgQC/DHFTiHqwYD6Exf/u6Ap7rY2A1DW2QxUDpkhEw==",
+      "path": "awssdk.rekognition/3.7.8.17",
+      "hashPath": "awssdk.rekognition.3.7.8.17.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.9.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-89wR6WawtKXSA9KWi7z0cHsud3DWaV3D+ZS/NnzU4/b64UEJQKuCZKhCN4jR5F4XRXVXj/BfOZj8iP1jxvjkMQ==",
+      "path": "awssdk.s3/3.7.9.10",
+      "hashPath": "awssdk.s3.3.7.9.10.nupkg.sha512"
+    },
+    "AWSSDK.Textract/3.7.5.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gqp/ONuk3Js4WJ0tBMPoJJnV4AIr//ICfpwonfQ/xuBk3UiG5hLNVlkEvTVhjNMCepFYNXG3YV9toVKfvKJqAQ==",
+      "path": "awssdk.textract/3.7.5.17",
+      "hashPath": "awssdk.textract.3.7.5.17.nupkg.sha512"
+    }
+  }
+}
